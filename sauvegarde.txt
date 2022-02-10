@@ -1,0 +1,20 @@
+
+Je suis une ligne parasite
+
+G5
+108000200
+024300701
+050207089
+005740002
+002103000
+400020600
+260500070
+500002900
+001000520
+
+
+Je suis une ligne parasite
+
+G6
+(cette grille n'existe pas)
+000 111
